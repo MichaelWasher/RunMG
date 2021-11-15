@@ -1,0 +1,13 @@
+.DS_STORE
+
+resources/*
+!resources/kine
+!resources/kine/*
+
+must-gather/*
+!must-gather/README.md
+
+pki/*
+!pki/
+!pki/san.cnf
+!pki/kubeconfig_template

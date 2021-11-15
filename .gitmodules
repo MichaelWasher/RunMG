@@ -1,0 +1,4 @@
+[submodule "resources/kine"]
+	path = resources/kine
+	url = https://github.com/MichaelWasher/kine
+	branch = canary_poc
